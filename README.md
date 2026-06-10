@@ -1,6 +1,6 @@
 # ayushhh.xyz
 
-my personal portfolio website — designed by me, built with Framer + Claude Code.
+my personal portfolio website - designed by me, built with Framer + Claude Code.
 
 the custom parts i vibecoded:
 
